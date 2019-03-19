@@ -1,3 +1,4 @@
+// cf. https://reactjs.org/docs/hooks-reference.html#usestate
 import React from 'react';
 
 export default function Foobar() {

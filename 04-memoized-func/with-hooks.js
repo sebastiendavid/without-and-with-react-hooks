@@ -1,3 +1,4 @@
+// cf. https://reactjs.org/docs/hooks-reference.html#usememo
 import React from 'react';
 
 export default function Foobar(props) {
